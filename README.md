@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   🌱 Front-End developter<br/>
   📧 How to reach me? sieun0115@ajou.ac.kr
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun0115)](https://solved.ac/sieun0115) &nbsp;
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun0115)](https://solved.ac/sieun0115)
   ![SE0115's github stats](https://github-readme-stats.vercel.app/api?username=SE0115&theme=graywhite&show_icons=true)
   
 </div>
