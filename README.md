@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   📧 How to reach me? sieun0115@ajou.ac.kr
   <br/>
   
-  ![SE0115's github stats](https://github-readme-stats.vercel.app/api?username=SE0115&theme=graywhite&show_icons=true) [![SE0115's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SE0115&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SE0115)<br/>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun0115)](https://solved.ac/sieun0115)
+  ![SE0115's github stats](https://github-readme-stats.vercel.app/api?username=SE0115&theme=graywhite&show_icons=true)[![SE0115's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SE0115&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SE0115)<br/>
+<!--   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun0115)](https://solved.ac/sieun0115) -->
 
   ### 🎪 Front-end Stack
   <hr />
