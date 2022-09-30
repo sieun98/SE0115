@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
   ### Hi, I'm sieun 👋
   🌱 Front-End developter<br/>
-  📧 How to reach me? sieun0115@ajou.ac.kr
+  📧 How to reach me? m66453670@gmail.com
   <br/>
   
   ![SE0115's github stats](https://github-readme-stats.vercel.app/api?username=SE0115&theme=graywhite&show_icons=true)[![SE0115's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SE0115&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SE0115)<br/>
